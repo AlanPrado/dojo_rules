@@ -6,4 +6,5 @@
 * Python
 * C
 * Javascript
+* lisp
 * Killing history using git rebase
