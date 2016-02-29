@@ -6,4 +6,4 @@
 * Python
 * C
 * Javascript
-* Killing history using git rebase
+* Killing history using git rebase =)
