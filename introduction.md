@@ -1,3 +1,9 @@
 # Welcome to Alan Repo!
-# Javascript is the best path.
+=======
+# Deadly skills
+* Java
+* C#
+* Python
+* C
+* Javascript
 * Killing history using git rebase
