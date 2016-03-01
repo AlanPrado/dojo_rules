@@ -8,3 +8,4 @@
 * Javascript
 * lisp
 * Killing history using git rebase =)
+* add programmer
